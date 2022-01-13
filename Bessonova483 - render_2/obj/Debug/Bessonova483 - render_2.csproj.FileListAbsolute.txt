@@ -1,0 +1,16 @@
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\bin\Debug\Bessonova483 - render_2.exe.config
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\bin\Debug\Bessonova483 - render_2.exe
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\bin\Debug\Bessonova483 - render_2.pdb
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.csprojResolveAssemblyReference.cache
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483___render_2.DrawForm.resources
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483___render_2.Properties.Resources.resources
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.csproj.GenerateResource.Cache
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.exe
+C:\Users\Stud\Desktop\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.pdb
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.csproj.AssemblyReference.cache
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483___render_2.DrawForm.resources
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483___render_2.Properties.Resources.resources
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.csproj.GenerateResource.cache
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.exe
+F:\мои данные\vs\Bessonova483 - render_2\Bessonova483 - render_2\obj\Debug\Bessonova483 - render_2.pdb
